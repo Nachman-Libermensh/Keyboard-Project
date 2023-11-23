@@ -1,0 +1,15 @@
+.TextView {
+      margin: 1%;
+      padding: 2%;
+      min-height: 140px;
+      border: 1px solid #ffdc0059;
+      box-shadow: 2px -1px 13px 1px #999;
+      border-radius: 2%;
+      direction: rtl;
+      font-size: 16px;
+      text-align: justify;
+      text-align-last: center;
+      word-spacing: 7px;
+      word-break: break-all;
+      cursor: text;
+}

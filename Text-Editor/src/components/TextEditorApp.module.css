@@ -1,0 +1,19 @@
+.TextEditorApp {
+      margin: 0;
+      padding: 0;
+      text-align: center;
+      height: 100%;
+      width: 100%;
+}
+
+.kaysArea {
+      width: 100%;
+      background-color: rgb(145 198 255 / 15%);
+}
+
+@media only screen and (min-width: 1200px) {
+      .kaysArea {
+            position: fixed;
+            bottom: 0px;
+      }
+}

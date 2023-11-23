@@ -1,0 +1,134 @@
+[
+      {
+            "char": "A",
+            "class": "btn_char"
+      },
+      {
+            "char": "B",
+            "class": "btn_char"
+      },
+      {
+            "char": "C",
+            "class": "btn_char"
+      },
+      {
+            "char": "D",
+            "class": "btn_char"
+      },
+      {
+            "char": "E",
+            "class": "btn_char"
+      },
+      {
+            "char": "F",
+            "class": "btn_char"
+      },
+      {
+            "char": "G",
+            "class": "btn_char"
+      },
+      {
+            "char": "H",
+            "class": "btn_char"
+      },
+      {
+            "char": "I",
+            "class": "btn_char"
+      },
+      {
+            "char": "J",
+            "class": "btn_char"
+      },
+      {
+            "char": "K",
+            "class": "btn_char"
+      },
+      {
+            "char": "L",
+            "class": "btn_char"
+      },
+      {
+            "char": "M",
+            "class": "btn_char"
+      },
+      {
+            "char": "N",
+            "class": "btn_char"
+      },
+      {
+            "char": "O",
+            "class": "btn_char"
+      },
+      {
+            "char": "P",
+            "class": "btn_char"
+      },
+      {
+            "char": "Q",
+            "class": "btn_char"
+      },
+      {
+            "char": "R",
+            "class": "btn_char"
+      },
+      {
+            "char": "S",
+            "class": "btn_char"
+      },
+      {
+            "char": "T",
+            "class": "btn_char"
+      },
+      {
+            "char": "U",
+            "class": "btn_char"
+      },
+      {
+            "char": "V",
+            "class": "btn_char"
+      },
+      {
+            "char": "W",
+            "class": "btn_char"
+      },
+      {
+            "char": "X",
+            "class": "btn_char"
+      },
+      {
+            "char": "Y",
+            "class": "btn_char"
+      },
+      {
+            "char": "Z",
+            "class": "btn_char"
+      },
+      {
+            "char": " ",
+            "class": "btn_space"
+      },
+      {
+            "char": ".",
+            "class": "btn_special"
+      },
+      {
+            "char": ",",
+            "class": "btn_special"
+      },
+      {
+            "char": "CapsLock",
+            "class": "btn_apply"
+      },
+      {
+            "char": "Bold",
+            "class": "btn_apply"
+      },
+      {
+            "char": "Italic",
+            "class": "btn_apply"
+      },
+      {
+            "char": "UnderLine",
+            "class": "btn_apply"
+      }
+]

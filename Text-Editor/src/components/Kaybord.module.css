@@ -1,0 +1,100 @@
+.Kaybord {
+      background: linear-gradient(315deg, rgb(218 217 217) 12%, rgb(217 220 219 / 44%) 51%, rgb(219 214 215 / 34%) 85%);
+      padding: 2% 4% 3% 4%;
+      display: grid;
+      grid-template-columns: 80% 20%;
+      /* flex-wrap: wrap;
+      flex-direction: column;
+      justify-content: center;
+      align-items: stretch;
+      align-content: stretch; */
+      width: 80%;
+      margin: auto;
+      direction: rtl;
+}
+
+.charsKaybord,
+.optionKaybord {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: stretch;
+      align-content: stretch;
+      margin: 0.5px;
+}
+
+.btn_char,
+.btn_specialChar,
+.btn_space,
+.btn_StyleApply,
+.btn_apply {
+      display: flex;
+      padding: 15px 25px;
+      font-size: 1rem;
+      max-height: 60px;
+      cursor: pointer;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      text-decoration: none;
+      /* outline: none; */
+      color: #1e1515;
+      text-shadow: 0.2px 0px white, 0 0.2px white, 0.2px 0 white, 0 -0.2px white;
+      background-color: rgb(255 197 213 / 71%);
+      /* border: none; */
+      border: 0.5px solid #00000029;
+      border-radius: 15px;
+      box-shadow: 0 6px #999;
+      margin: 5px 2px 5px 2px;
+      word-break: keep-all;
+}
+
+.btn_specialChar {
+      background-color: rgba(146, 204, 91, 0.8);
+}
+
+.btn_space {
+      padding: 15px 125px;
+}
+
+.btn_StyleApply {
+      background-color: rgb(109 90 206);
+      color: white;
+      text-shadow: none;
+}
+
+.btn_apply {
+      background-color: #ee9728;
+      color: white;
+      text-shadow: none;
+}
+
+.btn_StyleApply,
+.btn_apply {
+      width: 125px;
+}
+
+.btn_char:hover,
+.btn_specialChar:hover,
+.btn_space:hover {
+      background-color: rgb(215 118 146 / 62%);
+}
+
+.btn_StyleApply:hover {
+      background-color: rgb(84 62 194);
+}
+
+.btn_apply:hover {
+      background-color: #e07f04;
+}
+
+.btn_char:active,
+.btn_specialChar:active,
+.btn_space:active,
+.btn_StyleApply:active,
+.btn_apply:active {
+      background-color: rgba(204, 91, 123, 1);
+      box-shadow: 0 2px #666;
+      transform: translateY(4px);
+}
